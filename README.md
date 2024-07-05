@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreejanpandit
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter,Laravel,c,c++,python,vb,dart nad many more
+- 👀 I’m interested in ML and AI
+- 🌱 I’m currently learning Flutter,Laravel
 - 💞️ I’m looking to collaborate with flutter team
 - 📫 You can reach me via shreezanpandit@gmail.com
 
